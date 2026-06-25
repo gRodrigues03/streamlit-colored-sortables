@@ -1,3 +1,6 @@
+## This project has been archived and its functionality is stripped down to only support the usages that weren't moved to other solutions. it has also been ported to CCv2.
+
+
 ## BEWARE! Silly code!
 
 This code was made 20% by AI and 80% by me stumbling upon the concept of typescript and react!
